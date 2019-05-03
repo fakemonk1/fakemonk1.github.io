@@ -51,10 +51,12 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             See articles
-    url:               /blog/
-  - title:             Documentation
-    # url:               https://hydejack.com/docs/
-    url:               https://www.flipkart.com/
+    url:               /articles/
+#  - title:             Hydejaaacck
+#    url:               /hydejack/
+#  - title:             Documentation
+#    # url:               https://hydejack.com/docs/
+#    url:               https://www.flipkart.com/
   - title:             About
     url:               /about/
 

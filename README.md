@@ -154,7 +154,7 @@ This table below shows what's included in each version:
 [features]: #features
 [news]: #build-an-audience
 [syntax]: #syntax-highlighting
-[latex]: hydejack/_posts/2018-06-01-example-content-iii.md#math
+[latex]: trash/hydejack/_posts/2018-06-01-example-content-iii.md#math
 
 [lic]: LICENSE.md
 [pro]: licenses/PRO.md
