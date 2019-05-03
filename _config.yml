@@ -163,7 +163,7 @@ hydejack:
   # Set to `true` to prevent usage of `hy-img` (lazy-loading images).
   no_img:              false
 
-  # Set to `true` if you do not want parts of the css inlined in <head/>
+  # Set to `true` if you do not want parts of the css inlined in <head/>ashish
   # This will increase site build speed dramatically!
   no_inline_css:       false
 
@@ -303,7 +303,7 @@ remote_theme: qwtel/hydejack@v8.4.0
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://github.com/<username
 
 
 # Other Plugins
