@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Articles
-slug: article
+slug: articles
 menu: true
 order: 1
 ---

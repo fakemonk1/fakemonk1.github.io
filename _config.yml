@@ -30,7 +30,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "This site is under construction(for the sidebar)".
+  "~~This site is under construction~~".
   Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
@@ -299,11 +299,11 @@ remote_theme: qwtel/hydejack@v8.4.0
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
+social:
+  name:                Ashish Gupta
+  links:
 #     - https://twitter.com/<username>
-#     - https://github.com/<username
+      - https://github.com/fakemonk1
 
 
 # Other Plugins
