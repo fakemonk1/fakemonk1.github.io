@@ -32,8 +32,6 @@ We are using ‘Lunar Lander’ environment from OpenAI gym. This environment de
     
 3. **Reward**: The agent receives a small negative reward every time it carries out an action. This is done in an attempt to teach the agent to land the rocket as quickly and efficiently as possible. If the lander crashes or comes to rest, the episode is considered complete and it will be receiving additional -100 or +100 points depending on the outcome.
 
-TODO
-
 ## DQN Algorithm
 The deep Q-learning algorithm that includes experience replay and ϵ-greedy exploration is as follows:
 ```
