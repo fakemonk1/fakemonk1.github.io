@@ -29,7 +29,7 @@ description:           >
   Open `_config.yml` to edit this text.
 
 # A shorter description for the sidebar.
-tagline: "¯\\\_(ツ)_/¯"
+tagline: ""
 
 
 # A list of keywords for your blog
@@ -52,7 +52,7 @@ menu:
   - title:             See articles
     url:               /articles/
   - title:             Resume
-    url:              /assets/resume/AshishGupta.pdf
+    url:              /resume/AshishGupta.pdf
   - title:             About
     url:               /about/
 
