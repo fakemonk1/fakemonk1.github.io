@@ -24,9 +24,9 @@ title:                 Ashish Gupta
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "This site is under construction".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
-  Open `_config.yml` to edit this text.
+#  "This site is under construction".
+#  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+#  Open `_config.yml` to edit this text.
 
 # A shorter description for the sidebar.
 tagline: ""
