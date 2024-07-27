@@ -51,8 +51,8 @@ author:
 menu:
   - title:             See articles
     url:               /articles/
-  - title:             Resume
-    url:              /resume/AshishGupta.pdf
+#  - title:             Resume
+#    url:              /resume/AshishGupta.pdf
   - title:             About
     url:               /about/
 
